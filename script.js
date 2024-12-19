@@ -1,7 +1,7 @@
 const puzzleContainer = document.getElementById("puzzle-container");
 const rows = 4;
 const cols = 4;
-const imageUrl = "assets/image1.jpg";
+const imageUrl = "image1.jpg";
 
 // Generate puzzle pieces
 function createPuzzlePieces() {
