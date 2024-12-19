@@ -4,7 +4,7 @@ const piecesContainer = document.getElementById("pieces-container");
 // Puzzle configuration
 const rows = 4;
 const cols = 4;
-const imageSrc = "https://via.placeholder.com/400"; // Replace with your image URL
+const imageSrc = "image1.jpg"
 
 let draggedPiece = null;
 
